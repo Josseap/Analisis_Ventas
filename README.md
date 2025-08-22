@@ -45,7 +45,8 @@ The final dashboard includes:
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](path/to/your/image/dashboard.png)
+![Dashboard Preview](img/dashboard.png)
+
 
 ---
 
